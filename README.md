@@ -1,9 +1,9 @@
 # Vivecraft-autolauncher
 It's a simple AutoHotKey script which launches the Minecraft Launcher and automatically clicks on the Play button. 
 
-You need to have Minecraft installed in the default location (%Appdata%\.minecraft) for this to work.
+#####You need to have Minecraft installed in the default location (%Appdata%\.minecraft) for this to work.
 
-If you have other profiles than Vivecraft one (for example for your normal Minecraft) you need to launch Vivecraft profile once, that way it will automatically be selected when you start your Minecraft launcher.
+#####If you have other profiles than Vivecraft one (for example for your normal Minecraft) you need to launch Vivecraft profile once, #####that way it will automatically be selected when you start your Minecraft launcher.[/B]
 
 It helps running the game directly from the SteamVR without taking the Vive headset off.
 
