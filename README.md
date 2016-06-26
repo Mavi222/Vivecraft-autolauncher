@@ -15,5 +15,7 @@ It should work like this:
 
 3. Clicks on the 450, 542 location where the Play Button should be.
 
+Installation: https://github.com/Mavi222/Vivecraft-autolauncher/wiki/Installation
+
 
 TO-DO: I need to clean the script of the unnecessary, not working lines. Right now it works but the code is really bad. I don't even know why I have some lines there.
