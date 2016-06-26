@@ -20,4 +20,7 @@ It should work like this:
 Installation: https://github.com/Mavi222/Vivecraft-autolauncher/wiki/Installation
 
 
+#####Please write in the [Reddit thread](https://www.reddit.com/r/Vive/comments/4pxqxj/ive_made_a_vivecraft_launcher_for_launching_it/) if this works for you or not, thank you!
+
+
 TO-DO: I need to clean the script of the unnecessary, not working lines. Right now it works but the code is really bad. I don't even know why I have some lines there.
