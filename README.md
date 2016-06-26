@@ -19,6 +19,8 @@ It should work like this:
 
 3. Clicks on the 450, 542 location where the Play Button should be.
 
+4. Detects Vivecraft window, closes Minecraft Launcher window
+
 Installation: https://github.com/Mavi222/Vivecraft-autolauncher/wiki/Installation
 
 
