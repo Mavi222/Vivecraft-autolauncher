@@ -1,7 +1,7 @@
 # Vivecraft-autolauncher
 It's a simple AutoHotKey script which launches the Minecraft Launcher and automatically clicks on the Play button. 
 
-#####You need to have Minecraft installed in the default location (%Appdata%\.minecraft\launcher.jar) for this to work.
+#####You need to have Minecraft installed in the default location (%Appdata%\ .minecraft \launcher.jar) for this to work.
 
 #####If you don't have launcher.jar in the default folder, download [Minecraft.jar](http://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar), rename it to launcher.jar and put it in the %Appdata%\.minecraft\ folder.
 
