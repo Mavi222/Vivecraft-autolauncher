@@ -3,7 +3,7 @@ It's a simple AutoHotKey script which launches the Minecraft Launcher and automa
 
 #####You need to have Minecraft installed in the default location (%Appdata%\.minecraft) for this to work.
 
-#####If you have other profiles than Vivecraft one (for example for your normal Minecraft) you need to launch Vivecraft profile once, #####that way it will automatically be selected when you start your Minecraft launcher.[/B]
+#####If you have other profiles than Vivecraft one (for example for your normal Minecraft) you need to launch Vivecraft profile once, that way it will automatically be selected when you start your Minecraft launcher.
 
 It helps running the game directly from the SteamVR without taking the Vive headset off.
 
