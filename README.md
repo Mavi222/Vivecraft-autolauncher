@@ -14,3 +14,6 @@ It should work like this:
 2. Waits 3 seconds
 
 3. Clicks on the 450, 542 location where the Play Button should be.
+
+
+TO-DO: I need to clean the script of the unnecessary, not working lines. Right now it works but the code is really bad. I don't even know why I have some lines there.
