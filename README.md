@@ -9,7 +9,7 @@ It's one of my first AutoHotKey scripts so there are probably some unnecessary l
 
 It should work like this:
 
-1. Launches the Minecraft launcher
+1. Launches the Minecraft launcher through command line
 
 2. Waits 3 seconds
 
